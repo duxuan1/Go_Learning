@@ -1,2 +1,2 @@
 # Go_Learning
-Self-learning
+Just learning a new language
