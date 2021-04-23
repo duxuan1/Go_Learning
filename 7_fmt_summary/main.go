@@ -12,7 +12,7 @@ func main() {
 	fmt.Printf("%x\n", n) // print hexadecimal
 
 	var s = "Hello"
-	fmt.Printf("%v\n", s)  // print string
-	fmt.Printf("%s\n", s)  // print any type
+	fmt.Printf("%v\n", s)  // print any type
+	fmt.Printf("%s\n", s)  // print string
 	fmt.Printf("%#v\n", s) // print exact any type
 }
